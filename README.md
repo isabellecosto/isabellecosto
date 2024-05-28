@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @isabellecosto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Eu sou a @isabellecosto
 
-<!---
-isabellecosto/isabellecosto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![isabellecosto's Stats](https://github-readme-stats.vercel.app/api?username=isabellecosto&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![isabellecosto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isabellecosto&theme=dracula&hide_border=false)
+
+## About me
+- Iniciando os estudos de programação
+- Sempre a disposição para aprender novas coisas
+- Cursando Economia
+- Amo matemática
+- Sou curiosa no que diz respeito a conhecimento!!
+
+### Minhas redes sociais
+
+- <img src="instagram.png"> [Instagram](https://www.instagram.com/isabellecosoliv/)
+
+
+
+
