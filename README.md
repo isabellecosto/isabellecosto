@@ -1,7 +1,6 @@
 # Eu sou a @isabellecosto
 
 ![isabellecosto's Stats](https://github-readme-stats.vercel.app/api?username=isabellecosto&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![isabellecosto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isabellecosto&theme=dracula&hide_border=false)
 
 ## About me
 - Iniciando os estudos de programação
