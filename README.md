@@ -12,7 +12,7 @@
 
 ### Minhas redes sociais
 
-- <img src="instagram.png"> [Instagram](https://www.instagram.com/isabellecosoliv/)
+- <img src="imagens/instagram.png"> [Instagram](https://www.instagram.com/isabellecosoliv/)
 
 
 
