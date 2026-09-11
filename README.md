@@ -27,10 +27,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 
-### Minhas redes sociais
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/icosoliv/)
-
 
 
 
